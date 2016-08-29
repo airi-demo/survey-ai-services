@@ -1,6 +1,6 @@
 # survey-ai-services
 
-## [IBM watson cloud](https://www.ibm.com/watson/developercloud/services-catalog.html)
+### [IBM watson cloud](https://www.ibm.com/watson/developercloud/services-catalog.html)
 
 - Language, Text analysis
 
@@ -31,7 +31,7 @@
   - [Watson sample codes, github](https://github.com/watson-developer-cloud)
 
 
-## [Google cloud platform](https://cloud.google.com/products/)
+### [Google cloud platform](https://cloud.google.com/products/)
 
 - Language
 
@@ -58,7 +58,7 @@
     - [samples and tutorials](https://cloud.google.com/vision/docs/tutorials)
 
 
-## [MS cognitive service](https://www.microsoft.com/cognitive-services)
+### [MS cognitive service](https://www.microsoft.com/cognitive-services)
 
 - Language, Text analysis
 
@@ -105,7 +105,7 @@
   - [subscriptions, api-keys](https://www.microsoft.com/cognitive-services/en-us/subscriptions?productId=/products/55e3f82f778daf16b4ba484c)
 
 
-## Facebook + wit.ai
+### Facebook + wit.ai
 
 - [Facebook messenger platform](https://developers.facebook.com/docs/messenger-platform)
 
