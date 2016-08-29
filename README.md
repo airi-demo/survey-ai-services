@@ -63,25 +63,25 @@
 - Language, Text analysis
 
   - [Language understanding, about and pricing options](https://www.microsoft.com/cognitive-services/en-us/language-understanding-intelligent-service-luis)
-    - [Language understanding, documentation](https://www.microsoft.com/cognitive-services/en-us/luis-api/documentation/home)
+    - [documentation](https://www.microsoft.com/cognitive-services/en-us/luis-api/documentation/home)
   - [Text Analytics, about and pricing](https://www.microsoft.com/cognitive-services/en-us/text-analytics-api)
-    - [Text Analytics, documentation](https://www.microsoft.com/cognitive-services/en-us/text-analytics/documentation)
-    - [Text Analytics, reference](https://westus.dev.cognitive.microsoft.com/docs/services/TextAnalytics.V2.0/operations/56f30ceeeda5650db055a3c7)
+    - [documentation](https://www.microsoft.com/cognitive-services/en-us/text-analytics/documentation)
+    - [reference](https://westus.dev.cognitive.microsoft.com/docs/services/TextAnalytics.V2.0/operations/56f30ceeeda5650db055a3c7)
 
 - Speech
 
   - [Bing speech API, about and pricing](https://www.microsoft.com/cognitive-services/en-us/speech-api)
-    - [Bing speech API, documentation](https://www.microsoft.com/cognitive-services/en-us/speech-api/documentation/overview)
-    - [Bing speech API, samples and SDK](https://www.microsoft.com/cognitive-services/en-us/SDK-Sample?api=bing%20speech)
+    - [documentation](https://www.microsoft.com/cognitive-services/en-us/speech-api/documentation/overview)
+    - [samples and SDK](https://www.microsoft.com/cognitive-services/en-us/SDK-Sample?api=bing%20speech)
   - [Custom recognition intelligent service (CRIS)](https://www.microsoft.com/cognitive-services/en-us/custom-recognition-intelligent-service-cris)
     - [CRIS, documentation](https://www.microsoft.com/cognitive-services/en-us/custom-recognition-intelligent-service-cris)
 
 - Vision
 
   - [Computer vision API, about](https://www.microsoft.com/cognitive-services/en-us/computer-vision-api)
-    - [Computer vision API, documentation](https://www.microsoft.com/cognitive-services/en-us/computer-vision-api/documentation)
-    - [Computer vision API, reference](https://dev.projectoxford.ai/docs/services/56f91f2d778daf23d8ec6739/operations/56f91f2e778daf14a499e1fa)
-    - [Computer vision API, SDK and samples](https://www.microsoft.com/cognitive-services/en-us/SDK-Sample?api=computer%20vision)
+    - [documentation](https://www.microsoft.com/cognitive-services/en-us/computer-vision-api/documentation)
+    - [reference](https://dev.projectoxford.ai/docs/services/56f91f2d778daf23d8ec6739/operations/56f91f2e778daf14a499e1fa)
+    - [SDK and samples](https://www.microsoft.com/cognitive-services/en-us/SDK-Sample?api=computer%20vision)
   - [Emotion API, about](https://www.microsoft.com/cognitive-services/en-us/emotion-api)
     - [Documentation](https://www.microsoft.com/cognitive-services/en-us/emotion-api/documentation)
     - [Reference](https://dev.projectoxford.ai/docs/services/5639d931ca73072154c1ce89/operations/563b31ea778daf121cc3a5fa)
@@ -108,5 +108,4 @@
 ## Facebook + wit.ai
 
 - [Facebook messenger platform](https://developers.facebook.com/docs/messenger-platform)
-
 
