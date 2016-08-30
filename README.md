@@ -114,4 +114,7 @@
   - [Reference](https://developers.facebook.com/docs/messenger-platform/reference)
   - [Webhook sample](https://github.com/fbsamples/graph-api-webhooks-samples)
 
+- [Chatbot test](https://www.facebook.com/Chatbot-test-533210753556782/)
+  - [dashboard](https://developers.facebook.com/apps/682371348580950/dashboard/)
+
 
