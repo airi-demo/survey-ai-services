@@ -117,6 +117,7 @@
 - [Chatbot test](https://www.facebook.com/Chatbot-test-533210753556782/)
   - [dashboard](https://developers.facebook.com/apps/682371348580950/dashboard/)
   - [page unpublishd. why?](https://www.facebook.com/help/131420600332690)
+  - [webhook settings](https://developers.facebook.com/apps/682371348580950/webhooks/)
 
 
 
