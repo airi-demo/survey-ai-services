@@ -108,4 +108,9 @@
 ### Facebook + wit.ai
 
 - [Facebook messenger platform](https://developers.facebook.com/docs/messenger-platform)
-
+  - [Overview](https://developers.facebook.com/docs/messenger-platform/product-overview)
+  - [Complete Guide](https://developers.facebook.com/docs/messenger-platform/complete-guide)
+  - [Platform Guidelines](https://developers.facebook.com/docs/messenger-platform/guidelines)
+  - [Reference](https://developers.facebook.com/docs/messenger-platform/reference)
+  - [Webhook sample](https://github.com/fbsamples/graph-api-webhooks-samples)
+  - 
